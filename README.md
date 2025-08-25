@@ -1,1 +1,1 @@
-# OpenAI Agents SDK - Mudasirc Repo
+# OpenAI Agents SDK Assignments - GIAIC
